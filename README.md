@@ -38,7 +38,7 @@
 <p><a href="https://ko-fi.com/cloud69420"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cloud69420" /></a></p><br><br>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy-man&show_icons=true&locale=en&layout=compact" alt="cloudy-man" /></p>
-<br />
+<br /> <br /> <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudy-man&show_icons=true&locale=en" alt="cloudy-man" /></p>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudy-man" alt="cloudy-man" /></a> </p>
