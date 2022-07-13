@@ -44,4 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy-man&show_icons=true&locale=en&layout=compact" alt="cloudy-man" /></p>
 <h3 align="center">Most used languages</h3> <br /> <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudy-man&show_icons=true&locale=en" alt="cloudy-man" /></p>
-<h3 align="center">Stats</h3> <br /> <br />
+<h3 align="center">Stats</h3>
