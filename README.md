@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are downloadable at [https://cloud-softworks.ml](https://cloud-softworks.ml)
 
-- 📝 I regularly write announcements on [https://discord.gg/XtCTQ4V8q9](https://discord.gg/XtCTQ4V8q9)
+- 📝 I regularly write announcements on [My Discord server](https://discord.gg/XtCTQ4V8q9)
 
 - 💬 You can ask me about **HTML, CSS and Javascript**
 
@@ -43,5 +43,5 @@
 <p><a href="https://ko-fi.com/cloud69420"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cloud69420" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy-man&show_icons=true&locale=en&layout=compact" alt="cloudy-man" /></p>
-
+<br /> <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudy-man&show_icons=true&locale=en" alt="cloudy-man" /></p>
