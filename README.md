@@ -7,7 +7,7 @@
 
 - ⚔ My current priority [Gladiator](https://cloud-softworks.ml/One/Gladiator.html)
 
-- ❓ I’m currently learning **C#, HTML, CSS Python, JavaScript and TypeScript Lua**
+- ❓ I’m currently learning **C#, HTML, CSS Python, JavaScript, TypeScript and Lua**
 
 - 💖 I’m looking for help with **C# Projects/Back-end projects**
 
