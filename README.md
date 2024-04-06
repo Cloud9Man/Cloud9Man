@@ -3,7 +3,6 @@
 <h3 align="center">I really love GitHub!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cloud9Man&label=Profile%20views&color=0e75b6&style=flat" alt="Cloud9Man" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cloud9Man&theme=" alt="Cloud9Man" /></a> </p>
 
 - 🔭 I’m currently working on [Schoolwork (for my friends :D)](https://github.com/Cloud9Man/Schoolwork)
 - 👯 I’m looking to collaborate on [my Discord bot (Cloudy)](https://github.com/Cloud9Man/DCBOTV14)
@@ -44,7 +43,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cloud9Man&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cloud9Man&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cloud9Man&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cloud9Man&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cloud9Man&theme=dark" height="180em" />
 </div>
 
